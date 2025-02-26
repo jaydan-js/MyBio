@@ -5,11 +5,13 @@ function Navbar() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between h-16">
                         <div className="flex items-center">
-                            <a href="#" data-name="nav-logo" className="text-xl font-bold text-gray-800">Portfolio</a>
+                            <a href="#" data-name="nav-logo" className="text-xl font-bold text-gray-800">MyBio</a>
                         </div>
                         <div className="flex items-center space-x-8">
                             <a href="#projects" data-name="nav-projects" className="text-gray-600 hover:text-gray-900">Projects</a>
                             <a href="#gallery" data-name="nav-gallery" className="text-gray-600 hover:text-gray-900">Gallery</a>
+                            <a href="#footer" data-name="footer" className="text-gray-600 hover:text-gray-900">Contact me here</a>
+
                         </div>
                     </div>
                 </div>
