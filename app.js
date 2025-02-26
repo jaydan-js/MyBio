@@ -4,6 +4,7 @@ function App() {
             <div data-name="app-container">
                 <Navbar />
                 <Hero />
+                <About/>
                 <Projects />
                 <Gallery />
                 <Footer />
